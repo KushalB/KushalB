@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KushalB
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Kushal Basu
+- 👀 I’m interested in Programming and Technology in general
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on NodeJS projects
+- 📫 How to reach me kushalbasu2@gmail.com
 
 <!---
 KushalB/KushalB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
