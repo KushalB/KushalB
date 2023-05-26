@@ -19,7 +19,7 @@ I'm a Salesforce Developer/Consultant at Salesforce, with a strong interest in B
 
 ## 📫 Contact Me
 - Email: kushalbasu2@gmail.com
-- LinkedIn: [Kushal Basu](https://www.linkedin.com/in/kushal-basu/)
+- LinkedIn: [Kushal Basu](https://www.linkedin.com/in/kushalbasu/)
 
 ## 🌟 Interests
 Apart from coding, here are a few things I enjoy:
