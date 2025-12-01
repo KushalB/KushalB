@@ -1,36 +1,55 @@
-# Hi, I'm Kushal Basu! 👋
+# 👋 Hi, I'm **Kushal Basu**
+### **Salesforce Engineer | Experience Cloud Architect | RevOps-Focused Builder**
 
-I'm a Salesforce Developer/Consultant at Salesforce, with a strong interest in Backend Engineering and a curiosity about how computer systems work. I enjoy tackling complex problems and finding efficient solutions. 
+I’m a Salesforce engineer with 8+ years of experience designing, building, and scaling enterprise systems using Apex, Lightning Web Components (LWC), Experience Cloud, and platform integrations. I focus on solving complex RevOps and business problems through clean architecture, automation, and thoughtful system design.
 
-## 🌱 Currently Focusing On
-- Data Structures and Algorithms (DSA)
-- Java Development
+I work across the full Salesforce ecosystem — async Apex, LWC, Experience Cloud, API integrations, CI/CD, and reusable frameworks — with a strong emphasis on scalability, maintainability, and data quality.
 
-## 💼 Professional Experience
-- Salesforce Developer/Consultant at Salesforce
-  - [Salesforce](https://www.salesforce.com/) is a leading customer relationship management (CRM) platform that helps businesses manage their sales, marketing, and customer support activities.
+---
 
-## 💻 Tech Stack
-- Java
-- Salesforce
-- Data Structures and Algorithms
-- Backend Development
-- RESTful APIs
+## 🚀 **What I Work On**
+- **Apex & LWC Development** — modular, testable, scalable components  
+- **Experience Cloud Architectures** — portals, guest/authenticated user flows, secure sharing models  
+- **Integrations** — REST APIs, third-party data services, async orchestration  
+- **Platform Automation** — Flows, Batch/Queueable/Schedulable Apex, event-driven models  
+- **CI/CD & DevOps** — GitHub Actions, Jenkins, Bitbucket Pipelines  
+- **RevOps Systems** — Lead-to-Opportunity, Q2C, onboarding workflows, data governance  
+- **Internal Systems** — design & development for cross-team workflows and operational efficiency  
 
-## 📫 Contact Me
-- Email: kushalbasu2@gmail.com
-- LinkedIn: [Kushal Basu](https://www.linkedin.com/in/kushalbasu/)
+---
 
-## 🌟 Interests
-Apart from coding, here are a few things I enjoy:
-- Exploring new technologies and frameworks
-- Reading books on software development and computer science
-- Solving puzzles and brain teasers
+## 🛠️ **Open Source Projects**
 
-Feel free to reach out if you have any questions or if you'd like to connect! I'm always open to interesting conversations and collaboration opportunities.
+### 🔹 **Enhanced Salesforce Roles (Unmanaged App)**  
+A lightweight Salesforce utility that improves the default Roles display with cleaner UI, better hierarchy visibility, and an admin-friendly experience.
 
+**Tech:** Apex, Lightning Web Components  
+**Goal:** Make Salesforce role management easier and more intuitive  
+**Repo:** https://github.com/KushalB/EnhancedSalesforceRoles/
 
-<!---
-KushalB/KushalB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----->
+---
+
+## 📈 **What I Care About**
+- Clean, readable, and maintainable code  
+- Designing for scale, not just immediate needs  
+- Improving internal systems for Sales, RevOps, and Service teams  
+- High data quality and predictable workflows  
+- Developer productivity, automation, and CI/CD excellence  
+- Sharing reusable patterns and tools with the community  
+
+---
+
+## 📚 **Currently Exploring**
+- Advanced Experience Cloud patterns  
+- Salesforce DevOps & packaging strategies  
+- Modular Apex architectures  
+- Revenue lifecycle & RevOps design  
+- Clean code principles for Apex/LWC  
+
+---
+
+## 🤝 **Let’s Connect**
+If you're into Salesforce engineering, Experience Cloud, RevOps systems, or building internal tools — always happy to connect.
+
+**LinkedIn:** *(add link)*  
+**GitHub:** https://github.com/KushalB
