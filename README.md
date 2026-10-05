@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Kushal Basu**
-### **Salesforce Engineer | Experience Cloud Architect | RevOps-Focused Builder**
+### **Salesforce Engineer
 
-I’m a Salesforce engineer with 8+ years of experience designing, building, and scaling enterprise systems using Apex, Lightning Web Components (LWC), Experience Cloud, and platform integrations. I focus on solving complex RevOps and business problems through clean architecture, automation, and thoughtful system design.
+I’m a Salesforce engineer with 9+ years of experience designing, building, and scaling enterprise systems using Apex, Lightning Web Components (LWC) and platform integrations. I focus on solving complex business problems through clean architecture, automation, and thoughtful system design.
 
 I work across the full Salesforce ecosystem — async Apex, LWC, Experience Cloud, API integrations, CI/CD, and reusable frameworks — with a strong emphasis on scalability, maintainability, and data quality.
 
@@ -13,7 +13,6 @@ I work across the full Salesforce ecosystem — async Apex, LWC, Experience Clou
 - **Integrations** — REST APIs, third-party data services, async orchestration  
 - **Platform Automation** — Flows, Batch/Queueable/Schedulable Apex, event-driven models  
 - **CI/CD & DevOps** — GitHub Actions, Jenkins, Bitbucket Pipelines  
-- **RevOps Systems** — Lead-to-Opportunity, Q2C, onboarding workflows, data governance  
 - **Internal Systems** — design & development for cross-team workflows and operational efficiency  
 
 ---
@@ -42,8 +41,7 @@ A lightweight Salesforce utility that improves the default Roles display with cl
 ## 📚 **Currently Exploring**
 - Advanced Experience Cloud patterns  
 - Salesforce DevOps & packaging strategies  
-- Modular Apex architectures  
-- Revenue lifecycle & RevOps design  
+- Modular Apex architectures
 - Clean code principles for Apex/LWC  
 
 ---
