@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Kushal Basu**
-### **Salesforce Engineer
+### Salesforce Engineer
 
 I’m a Salesforce engineer with 9+ years of experience designing, building, and scaling enterprise systems using Apex, Lightning Web Components (LWC) and platform integrations. I focus on solving complex business problems through clean architecture, automation, and thoughtful system design.
 
